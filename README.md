@@ -2,7 +2,7 @@
 
 #### I'm an Android Dev based in Bologna, Italy
 
-#### You might know me as [@ericthecoder](https://www.tiktok.com/@eric_the_coder) on TikTok
+#### You might know me as [@ericthecoder](https://www.tiktok.com/@ericthecoder) on TikTok
 
 ##### BIO
 - 🏢 I'm currently working at [Element.io](https://element.io/)
