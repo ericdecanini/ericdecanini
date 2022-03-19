@@ -1,29 +1,22 @@
 ### Hi there 👋
 
-<!--
-**ericdecanini/ericdecanini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm an Android Dev based in Bologna, Italy
 
-Here are some ideas to get you started:
+#### You might know me as [@ericthecoder](https://www.tiktok.com/@eric_the_coder) on TikTok
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### BIO
+- 🏢 I'm currently working at [Element.io](https://element.io/)
+- ⚙️ I code everyday in Kotlin (cause it's Android, duh)
+- ✍️ I sometimes blog on https://www.ericthecoder.com/ (it's mostly Android though)
+- 💅 I'm also developing a [Shopping List App](https://play.google.com/store/apps/details?id=com.ericthecoder.shopshopshoppinglist)
+- ✨ Open to Video Sponsorships
+- 📫 DM me about anything: [instagram.com/eric_the_coder](https://www.instagram.com/eric_the_coder/)
+- 🕹️ I play Tekken 7, Dota 2, and League of Legends. Ping me for a game
 
-# Hello, I’m <mark>Eric Decanini</mark> <img width="30px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"> (a.k.a @ericthecoder)
-
-- 🔭 I’m an Android Developer for Element.io.
-- 🌱 Kotlin is my main language.
-- ✍ I an active TikToker
-
-I also have a personal blog where I write posts about Android
-
-Link to my socials:
--- socials
-
-Feel free to send me a DM!
+<br />
+<p align="center">
+  <a href="https://www.linkedin.com/in/eric-decanini/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" />
+          <a href="https://www.tiktok.com/@ericthecoder" target="_blank"><img alt="TikTok" src="https://img.shields.io/badge/-TikTok-000000?style=flat-square&logo=TikTok&logoColor=white" />
+    <a href="https://www.instagram.com/eric_the_coder/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" />
+    <a href="https://twitter.com/eric_the_coder" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" />
+</p>
