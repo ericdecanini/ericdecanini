@@ -4,7 +4,6 @@
 
 #### You might know me as [@ericthecoder](https://www.tiktok.com/@ericthecoder) on TikTok
 
-##### BIO
 - 🏢 I'm currently working at [Element.io](https://element.io/)
 - ⚙️ I code everyday in Kotlin (cause it's Android, duh)
 - ✍️ I sometimes blog on https://www.ericthecoder.com/ (it's mostly Android though)
