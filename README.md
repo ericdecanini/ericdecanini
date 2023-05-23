@@ -4,13 +4,11 @@
 
 #### You might know me as [@ericthecoder](https://www.tiktok.com/@ericthecoder) on TikTok
 
-- 🏢 I'm currently working at [Element.io](https://element.io/)
+- 🏢 I work as a Senior Android Developer for [Candyspace](https://www.candyspace.com/) and work on [ITVX Android](https://www.itv.com/)
 - ⚙️ I code everyday in Kotlin (cause it's Android, duh)
-- ✍️ I sometimes blog on https://www.ericthecoder.com/ (it's mostly Android though)
-- 💅 I'm also developing a [Shopping List App](https://play.google.com/store/apps/details?id=com.ericthecoder.shopshopshoppinglist)
+- ✍️ I occassionally blog on https://www.ericthecoder.com/ (it's mostly Android though)
 - ✨ Open to Video Sponsorships
 - 📫 DM me about anything: [instagram.com/eric_the_coder](https://www.instagram.com/eric_the_coder/)
-- 🕹️ I play Tekken 7, Dota 2, and League of Legends. Ping me for a game
 
 <br />
 <p align="center">
